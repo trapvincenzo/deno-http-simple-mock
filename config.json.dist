@@ -1,0 +1,10 @@
+{
+    "routes": [
+        {
+            "path": "/test",
+            "method": "GET",
+            "responseText": "{\"hello\":\"world\"}"
+        }
+    ],
+    "port": 8000
+}
